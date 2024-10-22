@@ -1,8 +1,6 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 # NAME.-HEMALATHA A
-# REF NO.-24900150![EDM EX 2 2](https://github.com/user-attachments/assets/2eb9276e-19ed-4659-a9d3-6ecf8e056bef)
-![EDM EX 2 2](https://github.com/user-attachments/assets/458dc67f-6ec2-4916-8b6d-c265b927dec5)
-![EDM EX 2 2](https://github.com/user-attachments/assets/226b9dac-df7b-4598-95c5-f2985aaa8517)
+# REF NO.-24900150
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
